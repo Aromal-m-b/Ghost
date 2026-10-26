@@ -1,0 +1,8 @@
+# Core dependencies for Ghost Deletion-Audit Agent
+google-generativeai>=0.8.0
+pypdf>=5.0.0
+pillow>=10.0.0
+requests>=2.31.0
+
+# Optional: OpenAI client support if using GPT-4o / Azure OpenAI fallback
+openai>=1.0.0

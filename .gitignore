@@ -1,0 +1,27 @@
+# Python virtual environment
+ghost/
+venv/
+.venv/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE and Editor configuration
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Scratch and intermediate files
+scratch/
+ckpt1/
+code.zip
